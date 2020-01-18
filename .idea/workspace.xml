@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc0b5ca-259e-4878-ba85-4005d4f9d684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SpringMvcDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMvcDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springMvxDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMvcDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,10 +103,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5149425" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -268,18 +259,38 @@
       <workItem from="1577509540734" duration="55000" />
       <workItem from="1579348383059" duration="963000" />
       <workItem from="1579349673763" duration="86000" />
-      <workItem from="1579351141313" duration="420000" />
+      <workItem from="1579351141313" duration="1653000" />
     </task>
+    <task id="LOCAL-00001" summary="This is my first commit.">
+      <created>1579351654837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579351654837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is my first commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my first commit." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="98" key="FileChooserDialogImpl" timestamp="1579351405102">
+    <state x="414" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579351814027">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="590" y="98" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1579351405102" />
+    <state x="414" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579351814027" />
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1579351670297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1579351670297" />
+    <state x="590" y="98" key="FileChooserDialogImpl" timestamp="1579351930000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="590" y="98" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1579351930000" />
     <state width="1293" height="289" key="GridCell.Tab.0.bottom" timestamp="1577454072057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -328,18 +339,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1293" height="289" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577454072057" />
-    <state x="91" y="0" key="SettingsEditor" timestamp="1579351237204">
+    <state x="91" y="0" key="SettingsEditor" timestamp="1579351931437">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="91" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579351237204" />
-    <state x="252" y="76" key="Vcs.Push.Dialog.v2" timestamp="1579351556008">
+    <state x="91" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579351931437" />
+    <state x="252" y="76" key="Vcs.Push.Dialog.v2" timestamp="1579352109747">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="252" y="76" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1579351556008" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577509581316">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="252" y="76" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1579352109747" />
+    <state x="640" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1579352826024">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577509581316" />
+    <state x="640" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579352826024" />
     <state x="334" y="129" key="new project wizard" timestamp="1577447731194">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -355,106 +367,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>springMvxDemo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5149425" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5149425" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5149425" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>SpringMvcDemo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5149425" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: cglib:cglib:3.2.10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5149425" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5149425" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
