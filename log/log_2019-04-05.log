@@ -1,0 +1,6 @@
+2019-04-05 01:06:47 上午 [Thread: main][ Class:com.test.Test01  Method: com.test.Test01.main(Test01.java:9) ]
+INFO:this is info message
+2019-04-05 01:06:47 上午 [Thread: main][ Class:com.test.Test01 Method: com.test.Test01.main(Test01.java:10) ]
+DEBUG:this is debug message
+2019-04-05 01:06:47 上午 [Thread: main][ Class:com.test.Test01 Method: com.test.Test01.main(Test01.java:11) ]
+WARN:this is warn message
